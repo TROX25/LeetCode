@@ -13,5 +13,6 @@ public class Solution {
             }
         }
         return Array.Empty<int>();
+        // albo throw new Exception("No solution found");
     }
 }
